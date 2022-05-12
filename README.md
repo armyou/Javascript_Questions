@@ -1,2 +1,3 @@
 # Javascript_Questions
-JS QUestion Set
+JS Question Set
+This is sample question set for S&M IIP 2022
